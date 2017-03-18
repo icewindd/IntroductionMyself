@@ -7,8 +7,8 @@
 * Personal Website: https://github.com/icewindd
 ## 技能
 ### HTML5
-瞭解 HTML & RWD 完成頁面架構和布局
-並能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
+* 瞭解 HTML & RWD 完成頁面架構和布局
+* 能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
 ### CSS
 * CSS 3 - 能夠使用 CSS 做出網頁排版與 RWD 響應式設計
 * Sass - 使用 SCSS 管理網頁版型
