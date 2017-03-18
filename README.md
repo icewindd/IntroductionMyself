@@ -5,7 +5,7 @@
 * E-Mail: achiang1225@gmail.com
 * Mobile: 0912-380-910
 * Personal Website: https://github.com/icewindd
-## 技能-程式語言
+## 技能
 ### HTML5
 瞭解 HTML & RWD 完成頁面架構和布局
 並能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
