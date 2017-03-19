@@ -9,7 +9,7 @@
 ### HTML5 & CSS
 * 瞭解 HTML & RWD 完成頁面架構和布局
 * 能在不依賴 Framework 下進行 RWD 客製化，開發手機、平板裝置適用之動態行動網站
-* Sass - 使用 SCSS 管理網頁版型
+* 使用 SCSS 管理網頁版型
 ### Javascript & jQuery
 * 對原生 Javascript 有基礎的了解
 * 會使用 jQuery 做動畫效果
