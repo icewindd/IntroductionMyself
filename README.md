@@ -19,4 +19,6 @@
 * 能夠使用 GitHub Pages 建立一個靜態網頁
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫
 ## 作品
-* 高雄文化資產查詢 - https://icewindd.github.io/Test_Json_1/
+* 桃園YouBike 查詢    - https://icewindd.github.io/Test_Json_2/
+* 高雄文化資產查詢     - https://icewindd.github.io/Test_Json_1/
+* 電子商務網站(餐廳式) - https://icewindd.github.io/Test_RWD_1/index.html
