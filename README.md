@@ -1,5 +1,5 @@
 # 詹智強 (Chan Chih Chiang)
-* Birthday: december 25th , 1992
+* Birthday: December 25th , 1992
 * Education: 致理科技大學 -資訊管理學系
 * Location: 桃園市
 * E-Mail: achiang1225@gmail.com
