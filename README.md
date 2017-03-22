@@ -19,6 +19,9 @@
 * 能夠使用 GitHub Pages 建立一個靜態網頁
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫
 ## 作品
-### <a href="https://icewindd.github.io/Test_Json_2/"  target="_blank">桃園YouBike查詢</a>
-### <a href="https://icewindd.github.io/Test_Json_1/"  target="_blank">高雄文化資產查詢</a>
 ### <a href="https://icewindd.github.io/Test_RWD_1/index.html"  target="_blank">電子商務網站(餐廳式)</a>
+*  使用HTML + CSS，並加上 RWD 與 jQuery 效果 呈現在網頁上
+### <a href="https://icewindd.github.io/Test_Json_1/"  target="_blank">高雄文化資產查詢</a>
+* 使用政府資料開放平台GET JSON 資料呈現在網頁上，且使用Lightbox 讓圖片更友善的呈現在網頁上
+### <a href="https://icewindd.github.io/Test_Json_2/"  target="_blank">桃園YouBike查詢</a>
+* 使用政府資料開放平台GET JSON 資料呈現在網頁，且使用google map api 讓使用者更方便的瀏覽
