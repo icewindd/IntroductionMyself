@@ -21,7 +21,7 @@
 ## 作品
 ### 電子商務網站(餐廳式) - https://icewindd.github.io/Test_RWD_1/index.html
 *  使用HTML + CSS，並加上 RWD 與 jQuery 效果 呈現在網頁上
-### >高雄文化資產查詢 - https://icewindd.github.io/Test_Json_1/
+### 高雄文化資產查詢 - https://icewindd.github.io/Test_Json_1/
 * 使用政府資料開放平台GET JSON 資料呈現在網頁上，且使用Lightbox 讓圖片更友善的呈現在網頁上
 ### 桃園YouBike查詢 - https://icewindd.github.io/Test_Json_2/
 * 使用政府資料開放平台GET JSON 資料呈現在網頁，且使用google map api 讓使用者更方便的瀏覽
